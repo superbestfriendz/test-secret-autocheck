@@ -1,4 +1,4 @@
-name: "PR Labeler"
+name: "PR labellerz"
 on:
 - pull_request
 
